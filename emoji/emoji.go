@@ -1,7 +1,7 @@
 package emoji
 
 import (
-	"github.com/kaneshin/gopack/unicode"
+	"github.com/kaneshin/go-pkg/unicode"
 )
 
 // Contains ...
